@@ -1,0 +1,99 @@
+[[NanoVG]]
+arch = "aarch64"
+git-tree-sha1 = "4edc0d92f27603c4261bb811ede9711ee92f06e6"
+libc = "glibc"
+os = "linux"
+
+    [[NanoVG.download]]
+    sha256 = "464be09d9d7400a7c386d671af1837d64dbed95cd6f0d0a36bbe622dd203ee62"
+    url = "https://github.com/dylanxyz/NanoVG_jll.jl/releases/download/NanoVG-v1.0.0+0/NanoVG.v1.0.0.aarch64-linux-gnu.tar.gz"
+[[NanoVG]]
+arch = "aarch64"
+git-tree-sha1 = "d37f7c8d91cc7a0fed69197e0b84f98d2dcc98d8"
+libc = "musl"
+os = "linux"
+
+    [[NanoVG.download]]
+    sha256 = "9edf329c7560f71ef1c54baf952dedeef0e2643016c6406da0baaae8fbd8db26"
+    url = "https://github.com/dylanxyz/NanoVG_jll.jl/releases/download/NanoVG-v1.0.0+0/NanoVG.v1.0.0.aarch64-linux-musl.tar.gz"
+[[NanoVG]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "511bf7da95fd8e264f0e7480eb48b4d9fed2213e"
+libc = "glibc"
+os = "linux"
+
+    [[NanoVG.download]]
+    sha256 = "266843a42a5eeab09c0d6e0b310f13b7e2d2b0b4589ccd944d0b66f8f67ad98d"
+    url = "https://github.com/dylanxyz/NanoVG_jll.jl/releases/download/NanoVG-v1.0.0+0/NanoVG.v1.0.0.armv7l-linux-gnueabihf.tar.gz"
+[[NanoVG]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "96229851ce7cd10a5ac38e6bc08290a520ed6682"
+libc = "musl"
+os = "linux"
+
+    [[NanoVG.download]]
+    sha256 = "0a7c052728375cc1575b0023d312bd11e609033907d9a83330c569eddacbfba8"
+    url = "https://github.com/dylanxyz/NanoVG_jll.jl/releases/download/NanoVG-v1.0.0+0/NanoVG.v1.0.0.armv7l-linux-musleabihf.tar.gz"
+[[NanoVG]]
+arch = "i686"
+git-tree-sha1 = "e7456070e0d5f007d3272bc43de291660016ec10"
+libc = "glibc"
+os = "linux"
+
+    [[NanoVG.download]]
+    sha256 = "acb6d679dcb0aa05fb0d42d984c2501ed12b240dac710f76b0361e4114bd8635"
+    url = "https://github.com/dylanxyz/NanoVG_jll.jl/releases/download/NanoVG-v1.0.0+0/NanoVG.v1.0.0.i686-linux-gnu.tar.gz"
+[[NanoVG]]
+arch = "i686"
+git-tree-sha1 = "7aa4ad5fe58fd00145f92374b288e241ee9859bd"
+libc = "musl"
+os = "linux"
+
+    [[NanoVG.download]]
+    sha256 = "bb8e7d668f540c4f19af9178be4b150cc08cab882fdcfdfdd8192bbcb19fb705"
+    url = "https://github.com/dylanxyz/NanoVG_jll.jl/releases/download/NanoVG-v1.0.0+0/NanoVG.v1.0.0.i686-linux-musl.tar.gz"
+[[NanoVG]]
+arch = "i686"
+git-tree-sha1 = "c19d662302130f5091efd430e2af1cc7cfebfd5e"
+os = "windows"
+
+    [[NanoVG.download]]
+    sha256 = "85742feca3622dba565caa06dc2d239c87a99329d38419788ee59cc082eaf0f7"
+    url = "https://github.com/dylanxyz/NanoVG_jll.jl/releases/download/NanoVG-v1.0.0+0/NanoVG.v1.0.0.i686-w64-mingw32.tar.gz"
+[[NanoVG]]
+arch = "powerpc64le"
+git-tree-sha1 = "1d53d76542af04d2bf4ba2958b4939c23d8f37d4"
+libc = "glibc"
+os = "linux"
+
+    [[NanoVG.download]]
+    sha256 = "c591cef23f43d97eb8cbde10c1c8e9c0bd6cba1fef99d1111c391a79180eae91"
+    url = "https://github.com/dylanxyz/NanoVG_jll.jl/releases/download/NanoVG-v1.0.0+0/NanoVG.v1.0.0.powerpc64le-linux-gnu.tar.gz"
+[[NanoVG]]
+arch = "x86_64"
+git-tree-sha1 = "1f934c2fa2d13fc03d69d0a2cbbd9a4094d25cba"
+libc = "glibc"
+os = "linux"
+
+    [[NanoVG.download]]
+    sha256 = "79715c97c89a7fd7424b1d92da1f21de28320969950ee988604f83b6db3bca66"
+    url = "https://github.com/dylanxyz/NanoVG_jll.jl/releases/download/NanoVG-v1.0.0+0/NanoVG.v1.0.0.x86_64-linux-gnu.tar.gz"
+[[NanoVG]]
+arch = "x86_64"
+git-tree-sha1 = "2e1c524753ea2fa1e17e68c0cad00a76b1e82c82"
+libc = "musl"
+os = "linux"
+
+    [[NanoVG.download]]
+    sha256 = "65e10b8f688b8344c95cb84f93193fd1f7be8168e6c63aeb48bb2e2ece8e8b7b"
+    url = "https://github.com/dylanxyz/NanoVG_jll.jl/releases/download/NanoVG-v1.0.0+0/NanoVG.v1.0.0.x86_64-linux-musl.tar.gz"
+[[NanoVG]]
+arch = "x86_64"
+git-tree-sha1 = "a70762b9409f9097a132c2e89b35af0e11739a5e"
+os = "windows"
+
+    [[NanoVG.download]]
+    sha256 = "82e904e55c114cef3829327d2812ca21eebbf8dc719b54947c3c350107136c8f"
+    url = "https://github.com/dylanxyz/NanoVG_jll.jl/releases/download/NanoVG-v1.0.0+0/NanoVG.v1.0.0.x86_64-w64-mingw32.tar.gz"
